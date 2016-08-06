@@ -43,6 +43,7 @@
     "dotenv": "^1.2.0",
     "plex-api": "OverloadUT/node-plex-api#develop",
     "plex-api-pinauth": "^0.1.0",
+    "plex-control": "^2.0.1",
     "q": "^1.4.1"
   }
 }
